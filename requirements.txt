@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+python-docx
+spacy
+scikit-learn
+requests
+pandas
+Pillow
